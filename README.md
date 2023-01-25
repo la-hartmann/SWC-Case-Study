@@ -1,3 +1,4 @@
+# Southern Water Corp Case Study
 This was a case study conducted through Springboard's Data Analytics program - the purpose of the study was to use both descriptive and inferential statistics to 
 predict pump failure of Southern Water Corp's water pump assets based on performance data collected before, during, and after pump failure. 
 
